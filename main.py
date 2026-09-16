@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 Name: main.py
-Author: Mingxue Yan
 Date: 02/02/2026
 """
 import os
